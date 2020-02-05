@@ -1,1 +1,1 @@
-echo "hello im a child branch"
+echo "hello im a child of master branch"
